@@ -6,6 +6,6 @@
 
 # Feedback
 
-This repository hosts the publically available discussion used to ask questions, report problems, or suggest ideas. You can also find the discussions the organization page, or from the website.
+This repository hosts the publicly available discussions used to ask questions, report problems, or suggest ideas. You can also find the discussions on the [organization page](https://github.com/orgs/operations-monitor/discussions), or from the [website](https://om-docs.surge.sh).
 
-[Start a new discussion ›](https://github.com/orgs/operations-monitor/discussions)
+[**Start a new discussion ›**](https://github.com/orgs/operations-monitor/discussions/new/choose)
